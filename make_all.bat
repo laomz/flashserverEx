@@ -1,0 +1,1 @@
+@REM go build - ldflags="-H windows"
